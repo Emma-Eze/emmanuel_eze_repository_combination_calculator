@@ -1,6 +1,6 @@
 RESISTOR COMBINATION CALCULATOR
 
-What it does
+What It Does
 
 This Python program asks the user how many
 resistors they have and collects each
@@ -9,13 +9,13 @@ and displays the equivalent resistance when the
 resistors are connected in series and when they
 are connected in parallel.
 
-How to run it
+How to Run It
 
 Install Python 3, then run:
 
 python resistor_calculator.py
 
-Sample output
+Sample Output
 
 ============================================================
            RESISTOR COMBINATION CALCULATOR
@@ -37,7 +37,7 @@ than the smallest resistor.
 
 Thank you for using the calculator.
 
-My own twist
+My Own Twist
 
 I added automatic unit formatting so large
 resistance values can be displayed in ohms,
